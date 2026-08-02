@@ -1,32 +1,29 @@
 ### Hi, I'm Denis / kk2gvb
 
-Student and developer from **Ufa, Russia**.  
-I work on medical applications and bioinformatics modeling,  
-and previously developed network software for switches (C, Erlang).
+Student at **Ufa University of Science and Technology** (УУНиТ).  
+Currently working on medical applications and bioinformatics modeling.  
+Previously developed network software for switches (Erlang + C, kernel level).
 
-Main stack: **C/C++**, **Python**, **Erlang**.  
-Also enjoy shell scripting, TeX and clean Unix setups.
+Focused on systems programming, networks and backend.
+
+**Main stack:** C/C++ · Python · Erlang · Shell  
+Also: Golang, JavaScript, LaTeX, Linux
 
 ---
 
 ### Привет, я Денис / kk2gvb
 
-Студент и разработчик из **Уфы**.  
+Студент **Уфимского университета науки и технологий** (УУНиТ).  
 Занимаюсь разработкой медицинских приложений и моделированием задач биоинформатики.  
-Ранее писал сетевое ПО для коммутаторов (C, Erlang).
+Ранее писал сетевое ПО для коммутаторов (Erlang + C, уровень ядра).
 
-Основной стек: **C/C++**, **Python**, **Erlang**.  
-Люблю shell-скрипты, TeX и аккуратно настроенные Unix-окружения.
+Интересы: системное программирование, сети, архитектура ОС.
 
----
-
-**Tech**
-
-`C` `C++` `Python` `Erlang` `Shell` `TeX`
+**Основной стек:** C/C++ · Python · Erlang · Shell  
+Также: Golang, JavaScript, LaTeX, Linux
 
 ---
 
 **Contacts**
-
 - Telegram: [kk2gvb](https://t.me/kk2gvb)
 - VK: [kk2gvb](https://vk.com/kk2gvb)
