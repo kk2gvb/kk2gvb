@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Denis / kk2gvb
 
-<!--
-**kk2gvb/kk2gvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student and developer from **Ufa, Russia**.  
+I work on medical applications and bioinformatics modeling,  
+and previously developed network software for switches (C, Erlang).
 
-Here are some ideas to get you started:
+Main stack: **C/C++**, **Python**, **Erlang**.  
+Also enjoy shell scripting, TeX and clean Unix setups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Привет, я Денис / kk2gvb
+
+Студент и разработчик из **Уфы**.  
+Занимаюсь разработкой медицинских приложений и моделированием задач биоинформатики.  
+Ранее писал сетевое ПО для коммутаторов (C, Erlang).
+
+Основной стек: **C/C++**, **Python**, **Erlang**.  
+Люблю shell-скрипты, TeX и аккуратно настроенные Unix-окружения.
+
+---
+
+**Tech**
+
+`C` `C++` `Python` `Erlang` `Shell` `TeX`
+
+---
+
+**Contacts**
+
+- Telegram: [kk2gvb](https://t.me/kk2gvb)
+- VK: [kk2gvb](https://vk.com/kk2gvb)
