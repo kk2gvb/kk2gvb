@@ -1,6 +1,6 @@
 ### Hi, I'm Denis / kk2gvb
 
-Student at **Ufa University of Science and Technology** (УУНиТ).  
+Student at **Ufa University of Science and Technology** (UUST).  
 Currently working on medical applications and bioinformatics modeling.  
 Previously developed network software for switches (Erlang + C, kernel level).
 
@@ -26,4 +26,4 @@ Also: Golang, JavaScript, LaTeX, Linux
 
 **Contacts**
 - Telegram: [kk2gvb](https://t.me/kk2gvb)
-- VK: [kk2gvb](https://vk.com/kk2gvb)
+- VK: [kk2gvb](https://vk.ru/kk2gvb)
